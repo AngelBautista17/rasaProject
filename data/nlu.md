@@ -5,6 +5,7 @@
 - good morning
 - good evening
 - hey there
+- Hi
 
 ## intent:goodbye
 - bye
@@ -63,6 +64,8 @@
 - [restaurant](something)?
 - searching for a [hospital](something) in [San Francisco](place)
 - looking for a [restaurant](something), I am in [New York](place)
+- do you know a [restaurant](something) nearby in [Chicago](place)?
+- i'm looking for a restaurant, do you know any?
 
 ## intent:give_info
 - yes, it's in [Chicago](place)
@@ -70,6 +73,8 @@
 - I am in [Los Angeles](place)
 - I am looking for the [hospital](something) in [New York](place)
 - That would be in [Miami](place)
+- [Chicago](place)
+- New York!
 
 ## intent:thanks
 - thank you
